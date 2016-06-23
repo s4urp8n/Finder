@@ -1,0 +1,935 @@
+<?php
+$coverage = new SebastianBergmann\CodeCoverage\CodeCoverage;
+$coverage->setData(array (
+  'C:\\OpenServer\\domains\\finder\\src\\Zver\\Finder.php' => 
+  array (
+    58 => 
+    array (
+      0 => 'FinderCest:testInstance',
+      1 => 'FinderCest:testDirectoriesSetAndGet',
+      2 => 'FinderCest:testResultsDirectories',
+      3 => 'FinderCest:testResultsFiles',
+      4 => 'FinderCest:testResultsReadable',
+      5 => 'FinderCest:testResultPassedToFilter',
+      6 => 'FinderCest:testResultsFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterFalse',
+      8 => 'FinderCest:testResultsLimitFilterTrue',
+      9 => 'FinderCest:testLimitException',
+      10 => 'FinderCest:testAddDirectoryException',
+      11 => 'FinderCest:testNoDirectoriesSet',
+    ),
+    59 => 
+    array (
+      0 => 'FinderCest:testInstance',
+      1 => 'FinderCest:testDirectoriesSetAndGet',
+      2 => 'FinderCest:testResultsDirectories',
+      3 => 'FinderCest:testResultsFiles',
+      4 => 'FinderCest:testResultsReadable',
+      5 => 'FinderCest:testResultPassedToFilter',
+      6 => 'FinderCest:testResultsFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterFalse',
+      8 => 'FinderCest:testResultsLimitFilterTrue',
+      9 => 'FinderCest:testLimitException',
+      10 => 'FinderCest:testAddDirectoryException',
+      11 => 'FinderCest:testNoDirectoriesSet',
+    ),
+    60 => 
+    array (
+      0 => 'FinderCest:testInstance',
+      1 => 'FinderCest:testDirectoriesSetAndGet',
+      2 => 'FinderCest:testResultsDirectories',
+      3 => 'FinderCest:testResultsFiles',
+      4 => 'FinderCest:testResultsReadable',
+      5 => 'FinderCest:testResultPassedToFilter',
+      6 => 'FinderCest:testResultsFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterFalse',
+      8 => 'FinderCest:testResultsLimitFilterTrue',
+      9 => 'FinderCest:testLimitException',
+      10 => 'FinderCest:testAddDirectoryException',
+      11 => 'FinderCest:testNoDirectoriesSet',
+    ),
+    61 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    62 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    63 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    64 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    65 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    66 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    68 => 
+    array (
+      0 => 'FinderCest:testInstance',
+      1 => 'FinderCest:testDirectoriesSetAndGet',
+      2 => 'FinderCest:testResultsDirectories',
+      3 => 'FinderCest:testResultsFiles',
+      4 => 'FinderCest:testResultsReadable',
+      5 => 'FinderCest:testResultPassedToFilter',
+      6 => 'FinderCest:testResultsFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterFalse',
+      8 => 'FinderCest:testResultsLimitFilterTrue',
+      9 => 'FinderCest:testLimitException',
+      10 => 'FinderCest:testAddDirectoryException',
+      11 => 'FinderCest:testNoDirectoriesSet',
+    ),
+    69 => NULL,
+    80 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    81 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    82 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+    ),
+    83 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+    ),
+    85 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    87 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    88 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    90 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    91 => NULL,
+    103 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+      8 => 'FinderCest:testAddDirectoryException',
+    ),
+    104 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    105 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    106 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    108 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    109 => NULL,
+    122 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+      8 => 'FinderCest:testAddDirectoryException',
+    ),
+    123 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+      8 => 'FinderCest:testAddDirectoryException',
+    ),
+    125 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    126 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    127 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    128 => NULL,
+    130 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+    ),
+    131 => NULL,
+    132 => 
+    array (
+      0 => 'FinderCest:testAddDirectoryException',
+    ),
+    133 => NULL,
+    144 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+      1 => 'FinderCest:testResultsDirectories',
+      2 => 'FinderCest:testResultsFiles',
+      3 => 'FinderCest:testResultsReadable',
+      4 => 'FinderCest:testResultPassedToFilter',
+      5 => 'FinderCest:testResultsFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterFalse',
+      7 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    145 => NULL,
+    157 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+    ),
+    158 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+    ),
+    159 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+    ),
+    160 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+    ),
+    162 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+    ),
+    163 => NULL,
+    172 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+    ),
+    173 => NULL,
+    180 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+    ),
+    182 => 
+    array (
+      0 => 'FinderCest:testDirectoriesSetAndGet',
+    ),
+    183 => NULL,
+    192 => 
+    array (
+      0 => 'FinderCest:testResultsLimitFilterFalse',
+    ),
+    194 => 
+    array (
+      0 => 'FinderCest:testResultsLimitFilterFalse',
+    ),
+    195 => NULL,
+    206 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    208 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    209 => NULL,
+    219 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+      7 => 'FinderCest:testNoDirectoriesSet',
+    ),
+    220 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+      7 => 'FinderCest:testNoDirectoriesSet',
+    ),
+    222 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+      7 => 'FinderCest:testNoDirectoriesSet',
+    ),
+    223 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+      7 => 'FinderCest:testNoDirectoriesSet',
+    ),
+    225 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+      7 => 'FinderCest:testNoDirectoriesSet',
+    ),
+    227 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    228 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+      7 => 'FinderCest:testNoDirectoriesSet',
+    ),
+    229 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+      7 => 'FinderCest:testNoDirectoriesSet',
+    ),
+    231 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+      7 => 'FinderCest:testNoDirectoriesSet',
+    ),
+    233 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    234 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    235 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    237 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+      7 => 'FinderCest:testNoDirectoriesSet',
+    ),
+    238 => NULL,
+    247 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    248 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    249 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    250 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    251 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsLimitFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    252 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsLimitFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    253 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    254 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    263 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    264 => NULL,
+    273 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    274 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    275 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    276 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    277 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    278 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    279 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    281 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    282 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    283 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    284 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    285 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    286 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    287 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    288 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    289 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    298 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+      7 => 'FinderCest:testNoDirectoriesSet',
+    ),
+    299 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+      7 => 'FinderCest:testNoDirectoriesSet',
+    ),
+    300 => 
+    array (
+      0 => 'FinderCest:testResultsLimitFilterFalse',
+      1 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    301 => 
+    array (
+      0 => 'FinderCest:testResultsLimitFilterFalse',
+      1 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    303 => 
+    array (
+      0 => 'FinderCest:testResultsDirectories',
+      1 => 'FinderCest:testResultsFiles',
+      2 => 'FinderCest:testResultsReadable',
+      3 => 'FinderCest:testResultPassedToFilter',
+      4 => 'FinderCest:testResultsFilterFalse',
+      5 => 'FinderCest:testResultsLimitFilterFalse',
+      6 => 'FinderCest:testResultsLimitFilterTrue',
+      7 => 'FinderCest:testNoDirectoriesSet',
+    ),
+    304 => NULL,
+    315 => 
+    array (
+      0 => 'FinderCest:testResultsLimitFilterFalse',
+      1 => 'FinderCest:testResultsLimitFilterTrue',
+      2 => 'FinderCest:testLimitException',
+    ),
+    316 => 
+    array (
+      0 => 'FinderCest:testResultsLimitFilterFalse',
+      1 => 'FinderCest:testResultsLimitFilterTrue',
+      2 => 'FinderCest:testLimitException',
+    ),
+    317 => 
+    array (
+      0 => 'FinderCest:testResultsLimitFilterFalse',
+      1 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    319 => 
+    array (
+      0 => 'FinderCest:testResultsLimitFilterFalse',
+      1 => 'FinderCest:testResultsLimitFilterTrue',
+    ),
+    320 => NULL,
+    321 => 
+    array (
+      0 => 'FinderCest:testLimitException',
+    ),
+    322 => NULL,
+  ),
+));
+$coverage->setTests(array (
+  'FinderCest:testInstance' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'FinderCest:testDirectoriesSetAndGet' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'FinderCest:testResultsDirectories' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'FinderCest:testResultsFiles' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'FinderCest:testResultsReadable' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'FinderCest:testResultPassedToFilter' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'FinderCest:testResultsFilterFalse' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'FinderCest:testResultsLimitFilterFalse' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'FinderCest:testResultsLimitFilterTrue' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'FinderCest:testLimitException' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'FinderCest:testAddDirectoryException' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+  'FinderCest:testNoDirectoriesSet' => 
+  array (
+    'size' => 'unknown',
+    'status' => NULL,
+  ),
+));
+
+$filter = $coverage->filter();
+$filter->setWhitelistedFiles(array (
+  'C:\\OpenServer\\domains\\finder\\src\\Zver\\Finder.php' => true,
+));
+
+return $coverage;

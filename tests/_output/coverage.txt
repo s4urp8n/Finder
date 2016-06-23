@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:     
+  2016-06-23 15:21:58     
+                          
+ Summary:                 
+  Classes: 100.00% (1/1)  
+  Methods: 100.00% (16/16)
+  Lines:   100.00% (91/91)
+
+\Zver::Finder
+  Methods: 100.00% (16/16)   Lines: 100.00% ( 91/ 91)

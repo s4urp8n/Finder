@@ -1,0 +1,33 @@
+{
+  "name": "zver/finder",
+  "description": "Class to find files and folders, apply callbacks to it and etc",
+  "keywords": [
+    "finder",
+    "find",
+    "file",
+    "files",
+    "folder",
+    "folders",
+    "directory",
+    "directories",
+    "zver"
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "": "tests/"
+    }
+  },
+  "require": {
+  },
+  "require-dev": {
+    "codeception/codeception": "2.*",
+    "codeception/c3": "2.*",
+    "phpdocumentor/phpdocumentor": "2.*",
+    "cvuorinen/phpdoc-markdown-public": "*"
+  }
+}
